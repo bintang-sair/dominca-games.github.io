@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://dominca-games.github.io/sitemap.xml
